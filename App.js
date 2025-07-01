@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Header from './components/Header';
-import Memecomponent from './components/Memecomponent';
+import Header from './Header';
+import Memecomponent from './Memecomponent';
 
 function App() {
   return (
