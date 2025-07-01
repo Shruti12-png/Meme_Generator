@@ -1,7 +1,7 @@
 
 import './App.css';
-import Header from './Header';
-import Memecomponent from './Memecomponent';
+import Header from './Header.js';
+import Memecomponent from './Memecomponent.js';
 
 function App() {
   return (
